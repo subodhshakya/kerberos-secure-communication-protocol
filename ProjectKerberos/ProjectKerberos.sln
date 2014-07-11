@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientUI", "ProjectKerberos\ClientUI.csproj", "{8B20DD8F-7FE2-4884-9B5E-A5C29D139AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{5B18A2F3-5B64-4D88-B917-6306CDA49513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kerberos.Data", "Kerberos.Data\Kerberos.Data.csproj", "{33680642-0CAB-4BBE-9DB5-D822D7CCB00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerberosCommon", "KerberosCommon\KerberosCommon.csproj", "{7E1DE559-B13D-47A1-95E7-0BCE2207776A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{4F4E2552-EBD0-4EE9-BFFC-0625DAE62111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyDistributionCenter", "KeyDistributionCenter\KeyDistributionCenter.csproj", "{20662F2D-2056-4D6E-A994-1B5677972FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B20DD8F-7FE2-4884-9B5E-A5C29D139AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B20DD8F-7FE2-4884-9B5E-A5C29D139AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B20DD8F-7FE2-4884-9B5E-A5C29D139AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B20DD8F-7FE2-4884-9B5E-A5C29D139AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B18A2F3-5B64-4D88-B917-6306CDA49513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B18A2F3-5B64-4D88-B917-6306CDA49513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B18A2F3-5B64-4D88-B917-6306CDA49513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B18A2F3-5B64-4D88-B917-6306CDA49513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33680642-0CAB-4BBE-9DB5-D822D7CCB00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33680642-0CAB-4BBE-9DB5-D822D7CCB00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33680642-0CAB-4BBE-9DB5-D822D7CCB00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33680642-0CAB-4BBE-9DB5-D822D7CCB00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1DE559-B13D-47A1-95E7-0BCE2207776A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1DE559-B13D-47A1-95E7-0BCE2207776A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1DE559-B13D-47A1-95E7-0BCE2207776A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1DE559-B13D-47A1-95E7-0BCE2207776A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4E2552-EBD0-4EE9-BFFC-0625DAE62111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4E2552-EBD0-4EE9-BFFC-0625DAE62111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4E2552-EBD0-4EE9-BFFC-0625DAE62111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4E2552-EBD0-4EE9-BFFC-0625DAE62111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20662F2D-2056-4D6E-A994-1B5677972FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20662F2D-2056-4D6E-A994-1B5677972FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20662F2D-2056-4D6E-A994-1B5677972FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20662F2D-2056-4D6E-A994-1B5677972FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

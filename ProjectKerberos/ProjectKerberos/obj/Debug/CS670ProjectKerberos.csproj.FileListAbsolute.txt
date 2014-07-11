@@ -1,0 +1,2 @@
+c:\users\subodh\documents\visual studio 2012\Projects\CS670ProjectKerberos\CS670ProjectKerberos\bin\Debug\CS670ProjectKerberos.exe.config
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\CS670ProjectKerberos\CS670ProjectKerberos\bin\Debug\CS670ProjectKerberos.exe.config

@@ -1,0 +1,5 @@
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Client\bin\Release\Client.exe.config
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Client\bin\Release\Client.exe
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Client\bin\Release\Client.pdb
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Client\obj\Release\Client.exe
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Client\obj\Release\Client.pdb

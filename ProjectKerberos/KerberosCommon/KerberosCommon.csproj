@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E1DE559-B13D-47A1-95E7-0BCE2207776A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KerberosCommon</RootNamespace>
+    <AssemblyName>KerberosCommon</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cryptography\KeyGenerator.cs" />
+    <Compile Include="Cryptography\TripleDESEncryption.cs" />
+    <Compile Include="Models\Acknowledgement.cs" />
+    <Compile Include="Models\Authenticator.cs" />
+    <Compile Include="Models\Chat.cs" />
+    <Compile Include="Models\ChatMessage.cs" />
+    <Compile Include="Models\ChatReply.cs" />
+    <Compile Include="Models\ClientNewAuthentication.cs" />
+    <Compile Include="Models\ClientSessionKeyEncryptedMessage.cs" />
+    <Compile Include="Models\ClientTGSResponseAforServiceReq.cs" />
+    <Compile Include="Models\IncrementedTimeStamp.cs" />
+    <Compile Include="Models\NewAuthenticator.cs" />
+    <Compile Include="Models\Service.cs" />
+    <Compile Include="Models\ServiceGrantingTicket.cs" />
+    <Compile Include="Models\ServiceList.cs" />
+    <Compile Include="Models\ServiceListRequest.cs" />
+    <Compile Include="Models\ServiceRequest.cs" />
+    <Compile Include="Models\Session.cs" />
+    <Compile Include="Models\SignInCredentials.cs" />
+    <Compile Include="Models\SignUpCredential.cs" />
+    <Compile Include="Models\TGSResponseAforServiceReq.cs" />
+    <Compile Include="Models\TGSResponseBforServiceReq.cs" />
+    <Compile Include="Models\TGSResponseforServiceReq.cs" />
+    <Compile Include="Models\TicketGrantingTicket.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serialization\Formatter.cs" />
+    <Compile Include="Util\Utility.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

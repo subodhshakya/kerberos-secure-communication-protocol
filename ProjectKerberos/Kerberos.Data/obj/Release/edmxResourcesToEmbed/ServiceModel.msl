@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ServiceDatabaseModelStoreContainer" CdmEntityContainer="ServiceContext">
+    <EntitySetMapping Name="Services">
+      <EntityTypeMapping TypeName="ServiceDatabaseModel.Service">
+        <MappingFragment StoreEntitySet="Service">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ServiceName" ColumnName="ServiceName" />
+          <ScalarProperty Name="ServiceKey" ColumnName="ServiceKey" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

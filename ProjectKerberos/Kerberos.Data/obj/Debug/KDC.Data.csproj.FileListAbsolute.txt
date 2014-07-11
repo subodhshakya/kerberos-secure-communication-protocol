@@ -1,0 +1,8 @@
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\bin\Debug\KDCDatabase.sdf
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\bin\Debug\KDC.Data.exe.config
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\bin\Debug\KDC.Data.exe
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\bin\Debug\KDC.Data.pdb
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\bin\Debug\EntityFramework.dll
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\bin\Debug\EntityFramework.xml
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\obj\Debug\KDC.Data.exe
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\KDC.Data\obj\Debug\KDC.Data.pdb

@@ -1,0 +1,34 @@
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\KDCDatabase.sdf
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\ServiceDatabase.sdf
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\Server.exe.config
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\Server.exe
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\Server.pdb
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\EntityFramework.dll
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\Kerberos.Data.exe
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\KerberosCommon.dll
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\Kerberos.Data.pdb
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\KerberosCommon.pdb
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\bin\Debug\EntityFramework.xml
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\obj\Debug\Server.ServiceServerUIForm.resources
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\obj\Debug\Server.exe
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\Server\obj\Debug\Server.pdb
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\KDCDatabase.sdf
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\ServiceDatabase.sdf
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\Server.exe.config
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\Server.exe
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\Server.pdb
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\EntityFramework.dll
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\Kerberos.Data.exe
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\KerberosCommon.dll
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\Kerberos.Data.pdb
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\KerberosCommon.pdb
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\bin\Debug\EntityFramework.xml
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\obj\Debug\Server.ServiceServerUIForm.resources
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\obj\Debug\Server.exe
+C:\Users\Subodh\Desktop\ProjectKerberos\Server\obj\Debug\Server.pdb

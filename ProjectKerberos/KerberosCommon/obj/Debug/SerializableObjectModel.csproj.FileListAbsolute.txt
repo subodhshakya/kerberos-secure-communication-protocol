@@ -1,0 +1,5 @@
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\SerializableObjectModel\bin\Debug\SerializableObjectModel.dll
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\SerializableObjectModel\bin\Debug\SerializableObjectModel.pdb
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\SerializableObjectModel\obj\Debug\SerializableObjectModel.dll
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\SerializableObjectModel\obj\Debug\SerializableObjectModel.pdb
+E:\Google Drive\UAH\Courses\Computer Network\Project\SourceCode\ProjectKerberos\CS670ProjectKerberos\SerializableObjectModel\obj\Debug\SerializableObjectModel.csprojResolveAssemblyReference.cache
